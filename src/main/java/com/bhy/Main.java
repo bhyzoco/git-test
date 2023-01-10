@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Hello github!");
         System.out.println("Hello git-merge!");
         System.out.println("master test!");
+        System.out.println("hot-fix test!");
     }
 }
